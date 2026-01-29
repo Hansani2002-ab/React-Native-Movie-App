@@ -1,50 +1,36 @@
-# Welcome to your Expo app 👋
+# 🎬 React Native Movie App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A sleek, high-performance mobile application built with **React Native** and **TypeScript**. This app allows users to explore the latest trending movies, view in-depth details, and manage their experience with a secure cloud-based backend.
 
-## Get started
+---
 
-1. Install dependencies
+## 🚀 Live Demo
+*Note: Since this is a mobile app, you can showcase screenshots or provide a link to the Expo Go build if available.*
 
+---
+
+## ✨ Key Features
+
+- **Dynamic Movie Discovery:** Real-time data fetching for trending, popular, and top-rated movies using the **TMDB API**.
+- **Secure Authentication:** User sign-up, login, and profile management powered by **Appwrite**.
+- **Rich Media Content:** Access movie summaries, user ratings, release dates, and high-quality trailers.
+- **Type-Safe Development:** Built entirely with **TypeScript** to ensure robust code and minimize runtime errors.
+- **Modern UI/UX:** Styled with **NativeWind (Tailwind CSS)** for a clean, responsive, and mobile-first user experience.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Framework:** [React Native (Expo)](https://reactnative.dev/)
+- **Language:** [TypeScript](https://www.typescriptlang.org/) (96.1% of the project)
+- **Backend-as-a-Service:** [Appwrite](https://appwrite.io/)
+- **API Provider:** [The Movie Database (TMDB)](https://www.themoviedb.org/)
+- **Styling:** [NativeWind](https://www.nativewind.dev/) (Tailwind CSS for React Native)
+
+---
+
+## ⚙️ Installation & Setup
+
+1. **Clone the repository:**
    ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-   npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+   git clone [https://github.com/Hansani2002-ab/React-Native-Movie-App.git](https://github.com/Hansani2002-ab/React-Native-Movie-App.git)

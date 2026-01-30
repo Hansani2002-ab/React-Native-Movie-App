@@ -4,9 +4,6 @@ A sleek, high-performance mobile application built with **React Native** and **T
 
 ---
 
-## 🚀 Live Demo
-*Note: Since this is a mobile app, you can showcase screenshots or provide a link to the Expo Go build if available.*
-
 ---
 
 ## ✨ Key Features
